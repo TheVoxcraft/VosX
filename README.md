@@ -5,3 +5,5 @@ Operating System made from scratch. C#
 
 - Advanced Display Driver (Color, Percise Text, etc...)
 - Basic I/O
+- Command Line
+- File System
