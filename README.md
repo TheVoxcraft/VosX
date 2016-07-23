@@ -1,7 +1,7 @@
 # VosX (Development halted)
-Operating System made from scratch. C#
-
 ## Development ceasing until the API gets updated.
+
+Operating System made from scratch. C#
 
 ##Todo:
 
